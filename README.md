@@ -2,7 +2,7 @@
 Overview\n
 This is a signature app built using HTML, CSS, and JavaScript. The app allows users to quickly create, customize, and manage their signatures with ease.
 
-Features:\n
+Features:/n
 Create Signature: Easily create a signature.
 Customization: Change font color, font size, and background color.
 Clear: Clear the entire signature with a single click.
