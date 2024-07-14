@@ -16,19 +16,6 @@ CSS: Styling for a visually appealing interface.
 JavaScript: Functionality and interactivity.
 
 
-Installation:
-To run this project locally, follow these steps:
-
-Clone the repository:
-sh
-Copy code
-git clone https://github.com/somilstar/signature-app.git
-Navigate to the project directory:
-sh
-Copy code
-cd signature-app
-Open index.html in your preferred web browser.
-
 Usage:
 Create your signature using the canvas provided.
 Customize the signature by changing the font, size, and background colour.
